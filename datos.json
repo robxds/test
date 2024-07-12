@@ -1,0 +1,127 @@
+{
+  "ingresos": [
+    {
+      "id": 1,
+      "description": "Regalo",
+      "amount": 300
+    },
+    {
+      "id": 2,
+      "description": "Trabajo",
+      "amount": 1400
+    },
+    {
+      "id": 3,
+      "description": "Venta",
+      "amount": 500
+    },
+    {
+      "description": "sueldo Junio",
+      "amount": "3000",
+      "id": 4
+    },
+    {
+      "description": "sueldo mayo",
+      "amount": "2500",
+      "id": 5
+    },
+    {
+      "description": "sueldo abril",
+      "amount": "2000",
+      "id": 6
+    },
+    {
+      "id": 7
+    },
+    {
+      "id": 8
+    },
+    {
+      "description": "test2",
+      "amount": "345",
+      "id": 9
+    },
+    {
+      "description": "regalo de la abuela",
+      "amount": 300000,
+      "id": 10
+    },
+    {
+      "description": "noli",
+      "amount": 2376,
+      "id": 11
+    },
+    {
+      "description": "noe",
+      "amount": 87,
+      "id": 12
+    }
+  ],
+  "gastos": [
+    {
+      "id": 1,
+      "description": "tv",
+      "amount": 600
+    },
+    {
+      "id": 2,
+      "description": "heladera",
+      "amount": 400
+    },
+    {
+      "id": 3,
+      "description": "remera",
+      "amount": 20
+    },
+    {
+      "description": "supermercado",
+      "amount": "30000",
+      "id": 4
+    },
+    {
+      "description": "almuerzo",
+      "amount": 79000,
+      "id": 5
+    },
+    {
+      "description": "test",
+      "amount": 23,
+      "id": 6
+    },
+    {
+      "description": "test",
+      "amount": 23,
+      "id": 7
+    },
+    {
+      "description": "test2",
+      "amount": 4556,
+      "id": 8
+    },
+    {
+      "description": "test2",
+      "amount": 8889,
+      "id": 9
+    },
+    {
+      "description": "test2",
+      "amount": 345,
+      "id": 10
+    },
+    {
+      "description": "cfdgfd",
+      "amount": 7778,
+      "id": 11
+    },
+    {
+      "description": "uvva",
+      "amount": 30000,
+      "id": 12
+    },
+    {
+      "description": "teva",
+      "amount": 965,
+      "id": 13
+    }
+  ]
+}

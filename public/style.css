@@ -1,0 +1,10 @@
+@import './vendor/bootstrap.min.css';
+
+#root {
+  /*border: 3px dashed red;*/
+  height: 100vh;
+}
+
+.offlineRow td {
+  color: #bbb;
+}

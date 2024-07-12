@@ -1,0 +1,14 @@
+{
+  "name": "server-budget",
+  "version": "1.0.0",
+  "description": "Servidor web de la app pwa Budget Control",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Roberto DS",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
